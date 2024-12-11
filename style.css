@@ -18,7 +18,7 @@
 .light {
   /*tema escuro*/
   --text-color: rgb(245, 245, 245);
-  --bg-url: url(./assets/Backgrounlight.jpg);
+  --bg-url: url(./assets/Backgrounlight2.jpg);
   --stroke-color: rgba(58, 3, 255, 0.301);
   --surface-color: rgba(0, 38, 255, 0.144);
   --surface-color-hover:rgba(0, 38, 255, 0.644);
