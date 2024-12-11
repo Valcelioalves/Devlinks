@@ -41,7 +41,8 @@ body * {
 }
 
 #container {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   /* "border: 1px solid red" - para ver as bordas para ter noção de espaço
   pode trocar as duas para uma só para  "margin: auto"
   margin-right: auto;
